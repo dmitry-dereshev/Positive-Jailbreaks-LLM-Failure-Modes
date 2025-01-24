@@ -12,9 +12,10 @@
 
 <p align="center">
     <p align="center"><b>AI Safety Alignment Project (Oct 2024 cohort).</b>
-    <p align="left>Course summaries can be found here: <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Wielding the Double-Edged Sword of AI</a>; <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Keeping an Eye on AI: Beyond Human Feedback</a>a; <a href="https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Inside the “brain” of AI</a><p>
-    <br>
+        <br>
 </p>
+<p align="left>Course summaries can be found here: <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Wielding the Double-Edged Sword of AI</a>; <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Keeping an Eye on AI: Beyond Human Feedback</a>; <a href="https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Inside the “brain” of AI</a></p>
+
 
 
 This work explores 3 aspects of consumer-grade LLMs (7B-8B range):
