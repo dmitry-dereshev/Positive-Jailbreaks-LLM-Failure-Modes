@@ -5,7 +5,7 @@
 <h1 align="center">Positive jailbreaks and LLM failure modes</h1>
 
 <h4 align="center">
-    <a href="EDIT" target="_blank">LinkedIn</a> |
+    <a href="EDIT" target="_blank">| LinkedIn</a> |
     <a href="EDIT" target="_blank">LessWrong</a> |
     <a href="EDIT" target="_blank">ArXiv</a> |
 </h4>
