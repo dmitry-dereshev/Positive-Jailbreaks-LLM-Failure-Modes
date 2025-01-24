@@ -14,10 +14,12 @@
     <p align="center"><b>AI Safety Alignment Project (Oct 2024 cohort).</b>
     <br>
 </p>
+
 Course summaries can be found here:
 - [Wielding the Double-Edged Sword of AI](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
 - [Keeping an Eye on AI: Beyond Human Feedback](https://www.linkedin.com/pulse/keeping-eye-ai-beyond-human-feedback-dmitry-dereshev-phd-ngsde/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
 - [Inside the “brain” of AI](https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
+
 
 This work explores 3 aspects of consumer-grade LLMs (7B-8B range):
 1. Performance improvements on [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) with LLM instruction text [unrelated](https://github.com/AiwonA1/Novelty-V1.0/tree/main) to security.
