@@ -2,7 +2,6 @@
     Positive jailbreaks and LLM failure modes
 </h1>
 -->
-# Positive jailbreaks and LLM failure modes
 <h1 align="center">Positive jailbreaks and LLM failure modes</h1>
 
 <h4 align="center">
