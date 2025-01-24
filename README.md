@@ -1,7 +1,3 @@
-<!-- <h1 align="center">
-    Positive jailbreaks and LLM failure modes
-</h1>
--->
 <h1 align="center">Positive jailbreaks and LLM failure modes</h1>
 
 <h4 align="center">
@@ -14,7 +10,7 @@
     <p align="center"><b>AI Safety Alignment Project (Oct 2024 cohort).</b>
         <br>
 </p>
-<p align="left>Course summaries can be found here: <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Wielding the Double-Edged Sword of AI</a>; <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Keeping an Eye on AI: Beyond Human Feedback</a>; <a href="https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Inside the “brain” of AI</a></p>
+<p align="left>Course summaries can be found here:</p> <p><a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Wielding the Double-Edged Sword of AI</a>; <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Keeping an Eye on AI: Beyond Human Feedback</a>; <a href="https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Inside the “brain” of AI</a></p>
 
 
 
