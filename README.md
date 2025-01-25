@@ -5,15 +5,6 @@
     <a href="EDIT" target="_blank">LessWrong</a> |
     <a href="EDIT" target="_blank">ArXiv</a>
 </h4>
-
-<p align="center">
-    <p align="center"><b>AI Safety Alignment Project (Oct 2024 cohort).</b>
-</p>
-<h4 align="center">
-    <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Wielding the Double-Edged Sword of AI</a> |
-    <a href="https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Keeping an Eye on AI: Beyond Human Feedback</a> |
-    <a href="https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D" target="_blank">Inside the “brain” of AI</a>
-</h4>
 <br>
 
 
@@ -39,3 +30,9 @@ The code in this repo will help you reproduce the datasets.
 - [Validate Judgement](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails/blob/main/2024-12-29%20Validate%20Judgement.csv) file - used in LLM-as-a-judge task. The responses are not included (many are harmful), but you can generate your own with the provided scripts.
 - [benchmark_llms.py](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails/blob/main/benchmark_llms.py) - the script to generate responses to the [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) benchmark. Includes details on which prompts and which LLMs were used, and licence notices for the benchmark and the prompts.
 - [test_llm_judgement.py](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails/blob/main/test_llm_judgement.py) - the script to generate responses for the LLM-as-a-judge task.
+
+## Meta
+This work is part of the AI Safety Alignment course (Oct 2024 cohort). Course material summaries are available:
+- [Wielding the Double-Edged Sword of AI](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
+- [Keeping an Eye on AI: Beyond Human Feedback](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
+- [Inside the “brain” of AI](https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
