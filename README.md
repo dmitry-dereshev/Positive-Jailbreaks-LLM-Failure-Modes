@@ -32,7 +32,7 @@ The code in this repo will help you reproduce the datasets.
 - [test_llm_judgement.py](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails/blob/main/test_llm_judgement.py) - the script to generate responses for the LLM-as-a-judge task.
 
 ## Meta
-This work is part of the AI Safety Alignment course (Oct 2024 cohort). Course material summaries are available:
+This work is a capstone project for the [AI Safety Fundamentals: Alignment](https://aisafetyfundamentals.com/) course by BlueDot Impact (Oct 2024 cohort). Course material summaries are available:
 - [Wielding the Double-Edged Sword of AI](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
 - [Keeping an Eye on AI: Beyond Human Feedback](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
 - [Inside the “brain” of AI](https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=IuWBWGXeTI%2BdSbH3M4hgPw%3D%3D)
