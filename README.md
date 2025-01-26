@@ -26,17 +26,17 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 ## What are the published results?
 - The meaty academic details: ArXiv.
 - The in-depth summaries, but with less academese:
-- - The many failure modes of consumer-grade LLMs
+  - The many failure modes of consumer-grade LLMs
   - Positive jailbreaks in LLMs
   - Can consumer-grade LLMs judge their own homework?
 - The light-touch summaries:
-- - The Key Ways LLMs Fail
+  - The Key Ways LLMs Fail
   - Safer results in LLMs without telling them to act safer
   - Can LLMs judge their own homework?
 
 
 ## Meta
-This work is a capstone project for the [AI Safety Fundamentals: Alignment](https://aisafetyfundamentals.com/) course by [BlueDot Impact](https://bluedot.org/) (Oct 2024 cohort). I've published course content summaries, which are part of this project (to bring the readers up to speed on the topic of AI safety):
+This work is a capstone project for the [AI Safety Fundamentals: Alignment](https://aisafetyfundamentals.com/) course by [BlueDot Impact](https://bluedot.org/) (Oct 2024 cohort). I've published course content summaries, which are also part of this project (to bring the readers up to speed on the topic of AI safety):
 - [Wielding the Double-Edged Sword of AI](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=ERhpaUhyLq%2F6SGZQmAvh7g%3D%3D)
 - [Keeping an Eye on AI: Beyond Human Feedback](https://www.linkedin.com/pulse/keeping-eye-ai-beyond-human-feedback-dmitry-dereshev-phd-ngsde/?trackingId=vHB8WlRbgcdbWWIEmb6M7w%3D%3D)
 - [Inside the “brain” of AI](https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=hA9b0Ld1AeXZz9%2BNexFFEA%3D%3D)
