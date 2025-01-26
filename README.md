@@ -36,7 +36,7 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 
 
 ## Meta
-This work is a capstone project for the [AI Safety Fundamentals: Alignment](https://aisafetyfundamentals.com/) course by [BlueDot Impact](https://bluedot.org/) (Oct 2024 cohort). I've published course content summaries to bring the readers up to speed on the topic of AI safety which are also part of this project:
-- [Wielding the Double-Edged Sword of AI](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=ERhpaUhyLq%2F6SGZQmAvh7g%3D%3D)
-- [Keeping an Eye on AI: Beyond Human Feedback](https://www.linkedin.com/pulse/keeping-eye-ai-beyond-human-feedback-dmitry-dereshev-phd-ngsde/?trackingId=vHB8WlRbgcdbWWIEmb6M7w%3D%3D)
-- [Inside the “brain” of AI](https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=hA9b0Ld1AeXZz9%2BNexFFEA%3D%3D)
+This work is a capstone project for the [AI Safety Fundamentals: Alignment](https://aisafetyfundamentals.com/) course by [BlueDot Impact](https://bluedot.org/) (Oct 2024 cohort). I have published course content summaries to bring the readers up to speed with AI safety which also form part of this project:
+- [Wielding the Double-Edged Sword of AI](https://www.linkedin.com/pulse/wielding-double-edged-sword-ai-dmitry-dereshev-phd-rxrbe/?trackingId=ERhpaUhyLq%2F6SGZQmAvh7g%3D%3D) (LinkedIn)
+- [Keeping an Eye on AI: Beyond Human Feedback](https://www.linkedin.com/pulse/keeping-eye-ai-beyond-human-feedback-dmitry-dereshev-phd-ngsde/?trackingId=vHB8WlRbgcdbWWIEmb6M7w%3D%3D) (LinkedIn)
+- [Inside the “brain” of AI](https://www.linkedin.com/pulse/inside-brain-ai-dmitry-dereshev-phd-yhife/?trackingId=hA9b0Ld1AeXZz9%2BNexFFEA%3D%3D) (LinkedIn)
