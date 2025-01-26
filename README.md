@@ -24,15 +24,15 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 - [test_llm_judgement.py](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails/blob/main/test_llm_judgement.py) - the script to generate responses for the LLM-as-a-judge task.
 
 ## What are the published results?
-- The meaty academic details: ArXiv.
+- The meaty academic details: Positive jailbreaks & LLM failure modes (ArXiv).
 - The in-depth summaries, but with less academese:
-  - The many failure modes of consumer-grade LLMs
-  - Positive jailbreaks in LLMs
-  - Can consumer-grade LLMs judge their own homework?
+  - The many failure modes of consumer-grade LLMs (LessWrong)
+  - Positive jailbreaks in LLMs (LessWrong)
+  - Can consumer-grade LLMs judge their own homework? (LessWrong)
 - The light-touch summaries:
-  - The Key Ways LLMs Fail
-  - Safer results in LLMs without telling them to act safer
-  - Can LLMs judge their own homework?
+  - The Key Ways LLMs Fail (LinkedIn)
+  - Safer results in LLMs without telling them to act safer (LinkedIn)
+  - Can LLMs judge their own homework? (LinkedIn)
 
 
 ## Meta
