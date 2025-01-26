@@ -5,7 +5,7 @@ This work explores 3 aspects of consumer-grade LLMs (7B-8B range):
 2. The ability for consumer-grade LLMs to judge their own responses to [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench).
 3. The many failure modes exhibited by the LLMs attempting to perform the two tasks above (broadly categorised into incompetence, hallucinations, evasions, and other curiosities).
 
-The code in this repo will help you reproduce the datasets. Check the ["What are the published results?"](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails?tab=readme-ov-file#what-are-the-published-results) section for the write-ups and publicity.
+The code in this repo will help you reproduce the datasets. Check the ["What are the published results?"](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails?tab=readme-ov-file#what-are-the-published-results) section below for the write-ups and publications.
 
 ## TL;DR
 - Much like classic jailbreaks allow users to move past built-in LLM security (by supplying nonsensical tokens, duping LLM with scenarios, or through sheer persistence), what I term "positive jailbreaks" are LLM instructions that do not explicitly mention security at all, yet manage to improve resilience to harmful queries while maintaining (or even improving) performance on harmless ones. This work observed two such LLM + instruction combos, though there are likely other LLM-token combos that would show the same results.
