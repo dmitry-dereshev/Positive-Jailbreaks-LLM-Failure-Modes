@@ -30,7 +30,7 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
   - Positive jailbreaks in LLMs (LessWrong)
   - Can consumer-grade LLMs judge their own homework? (LessWrong)
 - The light-touch summaries:
-  - The Key Ways LLMs Fail (LinkedIn)
+  - [The Key Ways LLMs Fail](https://www.linkedin.com/pulse/key-ways-llms-fail-dmitry-dereshev-phd-6i4fe) (LinkedIn)
   - Safer results in LLMs without telling them to act safer (LinkedIn)
   - Can LLMs judge their own homework? (LinkedIn)
 
