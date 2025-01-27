@@ -26,7 +26,7 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 ## What are the published results?
 - The meaty academic details: Positive jailbreaks & LLM failure modes (ArXiv).
 - The in-depth summaries, but with less academese:
-  - The many failure modes of consumer-grade LLMs (LessWrong)
+  - [The many failure modes of consumer-grade LLMs](https://www.lesswrong.com/posts/yZudSC2tRJ2icL2Mj/the-many-failure-modes-of-consumer-grade-llms) (LessWrong)
   - Positive jailbreaks in LLMs (LessWrong)
   - Can consumer-grade LLMs judge their own homework? (LessWrong)
 - The light-touch summaries:
