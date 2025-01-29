@@ -2,7 +2,7 @@
 
 This work explores 3 aspects of consumer-grade LLMs (7B-8B range):
 1. Safety and performance improvements on [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) by using LLM instructions [unrelated](https://github.com/AiwonA1/Novelty-V1.0/tree/main) to safety.
-2. The ability for consumer-grade LLMs to judge their own responses to [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench).
+2. The ability for consumer-grade LLMs to judge their own responses to JailbreakBench.
 3. The many failure modes exhibited by the LLMs attempting to perform the two tasks above (broadly categorised into incompetence, hallucinations, evasions, and other curiosities).
 
 The code in this repo will help you reproduce the datasets. Check the ["What are the published results?"](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails?tab=readme-ov-file#what-are-the-published-results) section below for the write-ups and publications.
