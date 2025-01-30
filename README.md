@@ -9,7 +9,7 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 
 ## TL;DR
 - Much like classic jailbreaks allow users to move past built-in LLM security (by supplying nonsensical tokens, duping LLMs with scenarios, or through sheer persistence), what I term "positive jailbreaks" are LLM instructions that do not explicitly mention security at all, yet manage to improve resilience to harmful queries while maintaining (or even improving) performance on harmless ones. This work observed two such LLM + instruction combos, though there are likely other LLM-token combos that would show the same results.
-- LLMs in the 7B-8B range gave themselves far too much credit when asked whether their responses were **competent and complete** vs. a human judge assessing their responses.
+- LLMs in the 7B-8B range give themselves far too much credit when asked whether their responses were **competent and complete** vs. a human judge assessing their responses.
 - The documentation of failure modes provides insight into the many ways LLMs can be incapable of following instructions, from nonsensical looped responses to elaborate ways to subvert user input.
 
 ## How is this related to AI safety?
