@@ -29,7 +29,7 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 - The in-depth summaries, but with less academese:
   - [The many failure modes of consumer-grade LLMs](https://www.lesswrong.com/posts/yZudSC2tRJ2icL2Mj/the-many-failure-modes-of-consumer-grade-llms) (LessWrong)
   - [Positive jailbreaks in LLMs](https://www.lesswrong.com/posts/KLqiDczfZsmhzEhax/positive-jailbreaks-in-llms) (LessWrong)
-  - Can consumer-grade LLMs judge their own homework? (LessWrong)
+  - Can 7B-8B LLMs judge their own homework? (LessWrong)
 - The light-touch summaries:
   - [The Key Ways LLMs Fail](https://www.linkedin.com/pulse/key-ways-llms-fail-dmitry-dereshev-phd-6i4fe) (LinkedIn)
   - [Safer results in LLMs without telling them to act safer](https://www.linkedin.com/pulse/safer-results-llms-without-telling-them-act-dmitry-dereshev-phd-qnpke) (LinkedIn)
