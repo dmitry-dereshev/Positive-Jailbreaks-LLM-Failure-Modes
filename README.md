@@ -25,7 +25,7 @@ The code in this repo will help you reproduce the datasets. Check the ["What are
 - [test_llm_judgement.py](https://github.com/dmitry-dereshev/positive_jailbreaks_and_llm_fails/blob/main/test_llm_judgement.py) - the script to generate responses for the LLM-as-a-judge task.
 
 ## What are the published results?
-- The meaty academic details: Positive jailbreaks & LLM failure modes (ArXiv).
+- The meaty academic details: [Positive Jailbreaks and LLM Failure Modes](https://github.com/dmitry-dereshev/Positive-Jailbreaks-LLM-Failure-Modes/blob/main/Positive%20jailbreaks%20and%20LLM%20failure%20modes.pdf).
 - The in-depth summaries, but with less academese:
   - [The many failure modes of consumer-grade LLMs](https://www.lesswrong.com/posts/yZudSC2tRJ2icL2Mj/the-many-failure-modes-of-consumer-grade-llms) (LessWrong)
   - [Positive jailbreaks in LLMs](https://www.lesswrong.com/posts/KLqiDczfZsmhzEhax/positive-jailbreaks-in-llms) (LessWrong)
